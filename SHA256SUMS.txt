@@ -1,1 +1,1 @@
-497ddcdd1c195a30d9881348f555e4b35c4a7d7905b2bc45a002956b9a0adf30 *Atlas-0.2.0-x64-setup.exe
+0ec233579c6e19c87faa2a7c8464b9e12c0ba557bddb7b71f5690a5bc1acdc16 *Atlas-0.3.0-x64-setup.exe
