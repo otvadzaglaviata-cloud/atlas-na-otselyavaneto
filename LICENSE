@@ -1,0 +1,38 @@
+Copyright (c) 2026 Chavdar Slavov - Tashev
+All rights reserved.
+
+This software, including its source code, is proprietary.
+
+1. Grant of use
+   End users are granted a free, non-exclusive right to install and use the
+   compiled application, and to share the unmodified official installer free of
+   charge, provided this notice is included. Recipients receive the same right
+   to use the application.
+
+2. Restrictions
+   You may not sell, rent, or distribute the application for a fee. You may not
+   modify, reverse engineer, decompile, or disassemble the application, except to
+   the extent permitted by applicable law. You may not copy, modify, reuse, or
+   redistribute the source code without prior written permission from the
+   copyright holder.
+
+3. No source license
+   No license or right to the source code is granted. All rights not expressly
+   granted are reserved.
+
+4. Third-party components
+   Map data, map tiles, fonts, and open-source libraries included in or used by
+   the application remain under their own licenses. See ATTRIBUTION.md. Those
+   licenses prevail over this notice for the respective components.
+
+5. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. THE SOFTWARE IS A
+   REFERENCE TOOL AND MUST NOT BE USED AS THE SOLE BASIS FOR SAFETY DECISIONS.
+
+6. Limitation of liability
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+   OR OTHER DEALINGS IN THE SOFTWARE.
