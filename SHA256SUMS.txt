@@ -1,1 +1,2 @@
-0ec233579c6e19c87faa2a7c8464b9e12c0ba557bddb7b71f5690a5bc1acdc16 *Atlas-0.3.0-x64-setup.exe
+e2f557702feef36db65f9a1c9496ced3a82b897cd192e1440492aee5f55152ad  Atlas-0.4.0-x64-setup.exe
+0e8715cb1aa883c6de0eaced19b67f43e98dc2613dcc85489b716092b84c6e37  Atlas-0.4.0-android-arm64.apk
