@@ -1,2 +1,2 @@
-37964d5dd084ad83d7ae7ddfb6b910dbb98b27c0a9f1ee04560b391d6afa4000  Atlas-0.6.0-x64-setup.exe
-d1b6c458e6a5f39c20357cd4ef2fd803d7d6ce1f7bbd5cdd2356c56716dac7bc  Atlas-0.6.0-android-arm64.apk
+d15b3c81d0c173bdd228cfbea47a676219db630f8f6bc3c5b276c5b128aec11f  Atlas-0.7.0-x64-setup.exe
+7443aa66f821a3dd6badc83fa5e045ecd7165a111bdd093508ca69aa7b2abb7d  Atlas-0.7.0-android-arm64.apk
